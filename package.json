@@ -12,6 +12,7 @@
   },
   "pre-commit": [
     "test",
+    "lint",
     "lint:fix"
   ],
   "author": "",
